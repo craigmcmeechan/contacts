@@ -77,7 +77,5 @@
                 "Rinvex\\Contacts\\ContactsServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
